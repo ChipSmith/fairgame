@@ -2,6 +2,20 @@
 
 **Note: Development is no longer active on this project. Pull requests submitted by the community will still be reviewed and approved, if valid and functional.**
 
+below is asin numbers for two GPUs
+
+{
+    "asin_groups": 1,
+    "asin_list_1": [
+      "B097YW4FW9", "B0995TBTLS"
+    ],
+    "reserve_min_1": 399,
+    "reserve_max_1": 650,
+    "amazon_website": "smile.amazon.com"
+  }
+
+  below is documentation from original file
+
 # Table of Contents:
 * [About FairGame](#About-FairGame)
     * [Current Functionality](#Current-Functionality)
